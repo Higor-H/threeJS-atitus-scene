@@ -28,13 +28,13 @@ Alunos:
           cd threeJS-atitus-scene
 ```
       
-    - Executar o comando
+- Executar o comando
 
 ```bash 
           python -m http.server -b 127.0.0.1 8000
 ```
 
-    - Acessar via navegador: [http://127.0.0.1:8000](http://127.0.0.1:8000)
+- Acessar via navegador: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ### Para atualizar com novas modificações do repositório (na pasta do projeto)
     git pull
