@@ -1,11 +1,22 @@
-import { World } from './World/World.js';
+// ========= Scene 1 ===================================================================
+
+// import { World } from './World/World.js';
+//
+// function main() {
+//   const container = document.querySelector('#scene-container');
+//   const world = new World(container);
+//   world.render();
+// }
+// main();
+
+
+// ========= Scene 2 =============================================
+
+import { World2 } from './World2/World2.js';
 
 function main() {
-  // Get a reference to the container element
   const container = document.querySelector('#scene-container');
-
-  // 1. Create an instance of the World app
-  const world = new World(container);
+  const world = new World2(container);
 
   world.render();
 }
