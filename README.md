@@ -27,8 +27,12 @@ Alunos:
 ```bash
           cd threeJS-atitus-scene
 ```
-      
-- Executar o comando
+   Entrar no arquivo main.js e descomentar linhas 1 a 10 e comentar linhas 15 a 24 para acessar a cena do 1
+   
+Entrar no arquivo main.js e comentar linhas 1 a 10 e descomentar linhas 15 a 24 para acessar a cena do 2
+
+
+ Executar o comando
 
 ```bash 
           python -m http.server -b 127.0.0.1 8000
